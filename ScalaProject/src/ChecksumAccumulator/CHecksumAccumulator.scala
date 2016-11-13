@@ -1,5 +1,0 @@
-package ChecksumAccumulator
-
-class CHecksumAccumulator {
-  
-}
